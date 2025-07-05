@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Konfiguracja_baz_danych'
-copyright = '2025, Piotr Domagała, Piotr Kotuła, Dawid Pasikowski'
-author = 'Piotr Domagała, Piotr Kotuła, Dawid Pasikowski'
+project = 'Sprawozdanie na bazy danych'
+copyright = '2025, Piotr Domagała, Tomasz Oszczęda'
+author = 'Piotr Domagała, Tomasz Oszczęda'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
