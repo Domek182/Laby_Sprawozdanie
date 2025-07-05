@@ -3,7 +3,7 @@ Wprowadzenie
 ==================
 
 
-Prowadzący: Piotr Czaja  
+Prowadzący: dr inż. Piotr Czaja  
 
 Kurs: Bazy Danych 1
 
