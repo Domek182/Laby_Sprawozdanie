@@ -19,6 +19,7 @@ Badania Literaturowe
 ---------------------------
 
 Rozdział 2 opisuje omówienie tematów związanych z PostgreSQL, linki do poszczególnych repozytoriów z tematami znajdują się w rozdziale 5. Opisane tematy to:
+
 - **Sprzęt dla bazy danych**
 - **Konfiguracja bazy danych**
 - **Kontrola i konserwacja**
@@ -32,6 +33,7 @@ Projekt bazy danych
 -------------------------
 
 Rozdział 3 opisuje projekt bazy danych w bibliotece która opisuje klientów oraz książki. Opisuje on m.in.:
+
 - model konceptulny, logiczny i fizyczny bazy danych
 - opis danych przechowywanych w bazie danych
 
