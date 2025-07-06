@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sprawozdanie na bazy danych'
-copyright = '2025, Piotr Domagała, Tomasz Oszczęda'
-author = 'Piotr Domagała, Tomasz Oszczęda'
+copyright = '2025, Piotr Domagała'
+author = 'Piotr Domagała'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
